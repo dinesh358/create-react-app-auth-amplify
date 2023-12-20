@@ -4,10 +4,10 @@
   "private": true,
   "dependencies": {
     "aws-amplify": "^4.2.0",
-    "@aws-amplify/ui-react": "^1.2.6",
+    "@aws-amplify/ui-react": "^2.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "^4.0.3"
+    "react-scripts": "^5.0.0"
   },
   "resolutions": {
     "set-value": "^2.0.1",
